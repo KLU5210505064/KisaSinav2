@@ -42,7 +42,7 @@ class Bina {
     }
 }
 
-// Konut sınıfı, birden çok daire içeren bir yapıdır
+// Konut sınıfı
 class Konut {
     private List<Daire> daireler;
 
@@ -62,7 +62,7 @@ class Konut {
     }
 }
 
-// Kiracı sınıfı, kiracının temel özelliklerini içerir
+// Kiracı sınıfı
 class Kiracı {
     private String ad;
 
