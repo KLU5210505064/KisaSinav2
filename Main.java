@@ -1,5 +1,5 @@
 
-//Hazırlayan Adı/Soyadı: Emre Çalışkan Öğr.No: 5210505064
+//Hazırlayan Adı: Emre Soyadı: Çalışkan Öğr.No: 5210505064
 import java.util.ArrayList;
 import java.util.List;
 
